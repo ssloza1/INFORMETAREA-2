@@ -251,23 +251,39 @@ el tercer foco se funde.
 
 ##### 12. Si se permite que un foco de 300 W permanezca encendido continuamente durante 30 días, ¿cuántos kilowatts-hora de energía consume?
 
+![image](https://user-images.githubusercontent.com/105320981/170483726-624ccca7-44f8-4796-99ee-60bb5b5a2542.png)
+
 ##### 14. Convierta 5 x 10^6 watts-minutos en kWh
 
+![image](https://user-images.githubusercontent.com/105320981/170483749-9b7f65b9-d114-46e8-9ca9-33d3d3dc17a5.png)
+
 ##### 16.  ¿Durante cuántos segundos debe haber 5 A de corriente a través de un resistor de 47 Ω para consumir 25 J?
-	
+
+![image](https://user-images.githubusercontent.com/105320981/170483778-9c4840b6-816b-49ae-89ea-c6001072fcb0.png)
+
 ##### SECCIÓN 4-2 Potencia en un circuito eléctrico
 
 ##### 18. Si un resistor tiene 5.5 V entre sus extremos y 3 mA a través de él, ¿cuál es la potencia?
 
+![image](https://user-images.githubusercontent.com/105320981/170483846-56c97701-55bb-49b6-a428-d1aefd2197d0.png)
+
 ##### 20. ¿Cuál es la potencia cuando 500 mA de corriente recorren un resistor de 4.7 kΩ?
+
+![image](https://user-images.githubusercontent.com/105320981/170483877-afda206f-943e-45d9-b9fa-badf25541be6.png)
 
 ##### 22. Si entre los extremos de un resistor de 680 Ω existen 60 V, ¿cuál es la potencia?
 
+![image](https://user-images.githubusercontent.com/105320981/170483896-e9073633-6d39-4d98-b853-717abe3fa029.png)
+
 ##### 24. n resistor tiene que transportar 2 A de corriente y manejar 100 W de potencia, ¿de cuántos ohms debe ser? Suponga que el voltaje puede ser ajustado a cualquier valor requerido.
+
+![image](https://user-images.githubusercontent.com/105320981/170483928-584c2ce8-4dab-48f8-a36a-fd7e5cff3736.png)
 
 ##### SECCIÓN 4-3 Clasificaciones de potencia en resistores
 
 ##### 26. Un resistor de 6.8 kΩ se quemó en un circuito. Usted debe reemplazarlo por otro con el mismo valor de resistencia. Si el resistor transporta 10 mA, ¿cuál deberá ser su clasificación de potencia? Suponga que dispone de resistores en todas las clasificaciones de potencia estándar.
+
+![image](https://user-images.githubusercontent.com/105320981/170483961-206d0845-44d9-43e3-88e7-a2fd163ad217.png)
 
 ##### SECCIÓN 4-4 Conversión de energía y caída de voltaje en una resistencia
 
@@ -275,19 +291,31 @@ el tercer foco se funde.
 
 ![image](https://user-images.githubusercontent.com/105671763/169917467-d1a3814b-c6ee-44a5-b4a5-f3f3aeb73fe4.png)
 
+![image](https://user-images.githubusercontent.com/105320981/170484249-4f763730-8faa-42bc-a331-9d43a806b93b.png)
+
 ##### SECCIÓN 4-5 Fuentes de potencia
 
 ##### 30. Suponga que una batería D alcalina puede mantener un voltaje promedio de 1.25 V durante 90 horas en una carga de 10 Ω antes de volverse inutilizable. ¿Qué promedio de potencia se suministra a la carga durante la vida de la batería?
 
+![image](https://user-images.githubusercontent.com/105320981/170484292-cea92fc2-1795-44c0-8c67-dd6db4ed8bf0.png)
+
 ##### 32. Una batería puede proporcionar un promedio de 1.5 A de corriente durante 24 h. ¿Cuál es su capacidad en amperes-hora?
+
+![image](https://user-images.githubusercontent.com/105320981/170484321-be532134-f9c3-4955-8ba5-4a1dde476562.png)
 
 ##### 34. Si la capacidad de una batería es de 650 mAh, ¿cuánta corriente promedio suministrará durante 48 h?
 
+![image](https://user-images.githubusercontent.com/105320981/170484347-7b065f02-481a-4771-ae4f-c8aa9ab0e53f.png)
+
 ##### 36. Para operar al 85% de eficiencia, ¿cuánta potencia de salida debe producir una fuente si la potencia de entrada es de 5 W?
+
+![image](https://user-images.githubusercontent.com/105320981/170484380-ef406aa0-bc45-403f-8afa-a0c86e7da28f.png)
 
 ## 4. VIDEO
 
 ## 5.CONCLUSIONES
+•	Las leyes de ohm son la unidad de medida hecha específicamente para el técnico eléctrico y calcularlas nos  facilita los trabajos de conversiones y para proceder a poner en funcionamiento o para saber la capacidad de algún mecanismo, en la antigüedad se realizaban muchos experimentos con la electricidad dándonos como resultado las tecnologías actuales, el calculo de los voltajes la corriente y las resistencias son una forma básica de saber como se compone un circuito y que proceso debe tener este para que dé resultados.
+•	La energía y la potencia dos ramas juntas pero que trabajan de distinta forma, cuando Watt con sus descubrimientos y/o experimentos logro patentar una unidad de potencia que al día de hoy nos ayuda a identificar por ejemplo cuanto watt o Kwh por hora consume una persona promedio y cuál es el límite de energía presente en nuestro entorno y como la energía hace que este entorno funcione. 
 
 ## BIBLIOGRAFIA
 
