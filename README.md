@@ -72,7 +72,11 @@ Conocer y demostrar la ley de ohm y cálculos de energía y potencia para su apl
 
 	Resistencia: 8200 Ω ± 5%
 	
-	
+
+![image](https://user-images.githubusercontent.com/105320981/170417706-327b5658-4666-467f-9c23-fc15d6a90545.png)
+
+![image](https://user-images.githubusercontent.com/105320981/170417772-404ef4b9-7f47-4e06-aac7-e25d11b3d641.png)
+
 ##### 10. ¿Cuál de los circuitos mostrados en la figura 3-20 tiene más corriente? ¿Cuál tiene menos corriente?
  	
 ![image](https://user-images.githubusercontent.com/105671763/169898729-d0c74a29-d2d6-4720-8328-b0d7414384cd.png)
@@ -81,7 +85,13 @@ Conocer y demostrar la ley de ohm y cálculos de energía y potencia para su apl
 
 ##### 12. Si se desea incrementar la cantidad de corriente en un resistor de 100 mA a 150 mA cambiando la fuente de 20 V, ¿en cuántos volts deberá cambiar la fuente? ¿A qué nuevo valor deberá ser ajustada?
 
+![image](https://user-images.githubusercontent.com/105320981/170416763-a6a55ff7-37f7-40be-af19-30565a3bb695.png)
+
 ##### 14. ¿La gráfica del problema 13 indica una relación lineal entre voltaje y corriente? Explique su respuesta.
+
+![image](https://user-images.githubusercontent.com/105320981/170416997-c0b71b52-2eb3-42b8-bfb2-346f575069d6.png)
+
+la grafica muestra el cambio en voltaje produce un cambio linealmente porporcional a la corriente.
 
 ##### SECCIÓN 3-1 	Cálculo de la corriente
 	
@@ -96,14 +106,24 @@ Conocer y demostrar la ley de ohm y cálculos de energía y potencia para su apl
   	(d) V = 1 kV, R = 2.2 kΩ
   
   	(e) V = 66 kV, R = 10 MΩ
-	
-##### 18. Cierto resistor tiene el siguiente código de colores: naranja, naranja, rojo, oro. Determine las corrientes máxima y mínima esperadas cuando se conecta una fuente de 12 V a través del resistor.
+
+![image](https://user-images.githubusercontent.com/105320981/170417275-646646c3-69dd-46c4-8e8d-1fa06403b8d2.png)
+
+##### 18. Cierto resistor tiene el siguiente código de colores: naranja, naranja, rojo, oro. Determine las corrientes máxima y mínima esperadas cuando se conecta una fuente de 12 V a través del resistor.
+
+![image](https://user-images.githubusercontent.com/105320981/170418855-1475233f-3d28-4a8a-969f-620b648240ce.png)
 
 ##### 20. Se conecta un resistor de 5 bandas a través de una fuente de 12 V. Determine la corriente si el código de colores es naranja, violeta, amarillo, oro, café.
 
+R = 37.4 kΩ
+
+![image](https://user-images.githubusercontent.com/105320981/170418950-d53c8253-888f-46a9-a8c9-fd471b01b6b1.png)
+ 
 ##### 22. El potenciómetro conectado a un reóstato en la figura 3-21 se utiliza para controlar la corriente suministrada a un elemento calentador. Cuando el reóstato se ajusta a un valor de 8 o menos, el elemento calentador puede quemarse. ¿Cuál es el valor nominal del fusible requerido para proteger el circuito si el voltaje a través del elemento calentador en el punto de corriente máxima es de 100 V, y el voltaje a través del reóstato es la diferencia entre el voltaje del elemento calentador y el voltaje de la fuente?
 	
 ![image](https://user-images.githubusercontent.com/105671763/169899865-7808c506-8385-44b2-8a7a-8c64a7e27520.png)
+
+![image](https://user-images.githubusercontent.com/105320981/170418998-56208c0d-642c-4e48-9333-7d2677df083c.png)
 
 ##### SECCIÓN 3-3 Cálculo de voltaje
 
@@ -125,9 +145,16 @@ Conocer y demostrar la ley de ohm y cálculos de energía y potencia para su apl
   
   	(h) I = 75 μA, R = 47 Ω
 	
-##### 26. signe un valor de voltaje a cada una de las fuentes que aparecen en los circuitos de la figura 3-22 para obtener las cantidades de corriente indicadas.
+
+![image](https://user-images.githubusercontent.com/105320981/170419074-39a2077c-bcc1-4a94-ad06-1f60498d9fee.png)
+
+##### 26. signe un valor de voltaje a cada una de las fuentes que aparecen en los circuitos de la figura 3-22 para obtener las cantidades de corriente indicadas.
 	
 ![image](https://user-images.githubusercontent.com/105671763/169900952-ece5f88a-4933-4fff-ba45-65d443be4463.png)
+
+![image](https://user-images.githubusercontent.com/105320981/170419170-2f0c9550-ade6-40ed-a3cc-50ba30dc3d6a.png)
+
+los voltajes serian a)81V b)500V c)117.5V
 
 ##### SECCIÓN 3-4 Cálculo de la resistencia
 
@@ -143,17 +170,31 @@ Conocer y demostrar la ley de ohm y cálculos de energía y potencia para su apl
   
   	(e) V = 1 kV, I = 1 mA
 	
+	
+
+![image](https://user-images.githubusercontent.com/105320981/170419286-e690ee40-d3d9-41f4-8360-e28a89e55ff3.png)
+
 ##### 30. Se aplican seis volts a través de un resistor. Se mide una corriente de 2 mA. ¿Cuál es el valor del resistor?
+
+![image](https://user-images.githubusercontent.com/105320981/170419321-279399e9-daa0-40a5-b619-a2ae3b907100.png)
 
 ##### 32. Se desconoce la resistencia de cierto dispositivo eléctrico. Usted dispone de una batería de 12 V y un amperímetro. ¿Cómo determinaría el valor de la resistencia desconocida? Trace las conexiones de circuito necesarias.
 
+![image](https://user-images.githubusercontent.com/105320981/170419432-78d8b31f-6400-40ab-972f-582b732313bd.png)
+
 ##### 34. Un circuito atenuador de luz de 120 V es controlado por un reóstato y está protegido contra corriente excesiva mediante un fusible de 2 A. ¿A qué valor de resistencia mínima puede ser ajustado el reóstato sin que se funda el fusible? Suponga una resistencia de la lámpara de 15 Ω.
+
+![image](https://user-images.githubusercontent.com/105320981/170419542-03666a21-5e84-4fe3-9df0-4cfda6978679.png)
+
+el valor de l a resistencia minima puede ser ajustada a 60ohms para que no se funda el fusible
 
 ##### SECCIÓN 3-5 Introducción a la localización de fallas
 
 ##### 36.  En el circuito de luces de la figura 3-25, identifique el foco fundido con base en la serie de lecturas de ohmmetro mostradas.
 
 ![image](https://user-images.githubusercontent.com/105671763/169901904-9895cf5f-0465-4300-b53b-074acfec9f1d.png)
+
+el tercer foco se funde.
 
 #### CAPÍTULO 4
 
@@ -163,8 +204,12 @@ Conocer y demostrar la ley de ohm y cálculos de energía y potencia para su apl
 
 ##### 2. Demuestre que hay 3.6x10^6 joules en un kilowatt-hora.
 
+![image](https://user-images.githubusercontent.com/105320981/170419693-aa3b955a-7a79-4f74-a53f-df13accf3dfa.png)
+
 ##### 4. Cuántos watts se utilizan cuando se consumen 7500 J de energía en 5 h?
 
+![image](https://user-images.githubusercontent.com/105320981/170419751-8ef05fed-9aaf-4ff5-879c-4032df8b8fe8.png)
+ 
 ##### 6. Convierta las siguientes cantidades en kilowatts:
 
 	(a) 1000 W
@@ -174,6 +219,9 @@ Conocer y demostrar la ley de ohm y cálculos de energía y potencia para su apl
 	(c) 160 W
 	
 	(d) 50,000 W
+
+
+![image](https://user-images.githubusercontent.com/105320981/170419783-016d9b47-c605-4453-b7f2-f5c3de8581d9.png)
 
 ##### 8. Convierta las siguientes cantidades en miliwatts:
 
@@ -185,6 +233,9 @@ Conocer y demostrar la ley de ohm y cálculos de energía y potencia para su apl
 	
 	(d) 0ñ.0125 W
 
+
+![image](https://user-images.githubusercontent.com/105320981/170419821-a1e18470-07a7-4dd6-9781-e30176b28124.png)
+
 ##### 10.  Convierta las siguientes cantidades en watts:
 	
 	(a) 1.5 kW
@@ -194,6 +245,9 @@ Conocer y demostrar la ley de ohm y cálculos de energía y potencia para su apl
 	(c) 350 mW
 	
 	(d) 9000 μW
+
+
+![image](https://user-images.githubusercontent.com/105320981/170483549-cd9f8aa6-5d6d-4c4c-8374-9091ed5563ee.png)
 
 ##### 12. Si se permite que un foco de 300 W permanezca encendido continuamente durante 30 días, ¿cuántos kilowatts-hora de energía consume?
 
