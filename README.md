@@ -12,6 +12,7 @@ Conocer y demostrar la ley de ohm y cálculos de energía y potencia para su apl
 #### 1.2 OBJETIVO ESPECIFICOS:
 
 •	Describir y resolver el efecto que tiene las leyes de ohm en la naturaleza para completar la comprensión del tema mediante la resolución de ejercicios. 
+
 •	Discutir y exponer la energía y la potencia para la retroalimentación a terceros mediante el uso de información proporcionada por la web y libros publicados.
 
 ## 2. MARCO TEORICO
@@ -315,6 +316,7 @@ el tercer foco se funde.
 
 ## 5.CONCLUSIONES
 •	Las leyes de ohm son la unidad de medida hecha específicamente para el técnico eléctrico y calcularlas nos  facilita los trabajos de conversiones y para proceder a poner en funcionamiento o para saber la capacidad de algún mecanismo, en la antigüedad se realizaban muchos experimentos con la electricidad dándonos como resultado las tecnologías actuales, el calculo de los voltajes la corriente y las resistencias son una forma básica de saber como se compone un circuito y que proceso debe tener este para que dé resultados.
+
 •	La energía y la potencia dos ramas juntas pero que trabajan de distinta forma, cuando Watt con sus descubrimientos y/o experimentos logro patentar una unidad de potencia que al día de hoy nos ayuda a identificar por ejemplo cuanto watt o Kwh por hora consume una persona promedio y cuál es el límite de energía presente en nuestro entorno y como la energía hace que este entorno funcione. 
 
 ## BIBLIOGRAFIA
