@@ -314,6 +314,8 @@ el tercer foco se funde.
 
 ## 4. VIDEO
 
+https://youtu.be/eOdlIYie7dM
+
 ## 5.CONCLUSIONES
 •	Las leyes de ohm son la unidad de medida hecha específicamente para el técnico eléctrico y calcularlas nos  facilita los trabajos de conversiones y para proceder a poner en funcionamiento o para saber la capacidad de algún mecanismo, en la antigüedad se realizaban muchos experimentos con la electricidad dándonos como resultado las tecnologías actuales, el calculo de los voltajes la corriente y las resistencias son una forma básica de saber como se compone un circuito y que proceso debe tener este para que dé resultados.
 
