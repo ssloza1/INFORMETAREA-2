@@ -82,11 +82,11 @@ Conocer y demostrar la ley de ohm y cálculos de energía y potencia para su apl
  	
 ![image](https://user-images.githubusercontent.com/105671763/169898729-d0c74a29-d2d6-4720-8328-b0d7414384cd.png)
 
-
+![image](https://user-images.githubusercontent.com/105320981/170416763-a6a55ff7-37f7-40be-af19-30565a3bb695.png)
 
 ##### 12. Si se desea incrementar la cantidad de corriente en un resistor de 100 mA a 150 mA cambiando la fuente de 20 V, ¿en cuántos volts deberá cambiar la fuente? ¿A qué nuevo valor deberá ser ajustada?
 
-![image](https://user-images.githubusercontent.com/105320981/170416763-a6a55ff7-37f7-40be-af19-30565a3bb695.png)
+IR = 100mA R = V/IR V = Ir * A Ir = 150mA R = 20V/100mA V = 150mA * 0.2Ω V = 20V R = 0.2Ω V = 30v
 
 ##### 14. ¿La gráfica del problema 13 indica una relación lineal entre voltaje y corriente? Explique su respuesta.
 
